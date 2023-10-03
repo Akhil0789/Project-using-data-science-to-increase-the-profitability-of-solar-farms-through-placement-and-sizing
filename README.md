@@ -1,0 +1,1 @@
+# Project-using-data-science-to-increase-the-profitability-of-solar-farms-through-placement-and-sizing
